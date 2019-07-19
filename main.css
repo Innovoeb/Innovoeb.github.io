@@ -200,3 +200,14 @@ section.info p {
 .css3 {
   color: rgb(33, 68, 224);
 }
+
+a:visited {
+  text-decoration: : none;
+}
+
+#vid {
+  height: 600px;
+  width: 904px;
+  margin-top: 693px;
+  margin-left: 492px;
+}
